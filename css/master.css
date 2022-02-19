@@ -8,7 +8,7 @@
     --n1:hsl(225, 100%, 98%);
     --n2:hsl(224, 23%, 55%);
     --n3:hsl(223, 47%, 23%);
-    --pad:20px;
+    --pad:25px;
 }
 body {
     background-image: url("../images/pattern-background-desktop.svg"); 
