@@ -1,4 +1,6 @@
-# Frontend Mentor - Order summary card
+# Frontend Mentor - Order summary card by Ehab Nada
+
+## The live server of this project https://hopamnada.github.io/order-summary-component-main/
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
