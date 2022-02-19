@@ -8,7 +8,7 @@
     --n1:hsl(225, 100%, 98%);
     --n2:hsl(224, 23%, 55%);
     --n3:hsl(223, 47%, 23%);
-    --pad:15px;
+    --pad:20px;
 }
 body {
     background-image: url("../images/pattern-background-desktop.svg"); 
@@ -58,11 +58,12 @@ main {
 .plan .cost {
     margin-right: auto;   
 }
-.plan h4 {
+.plan h2 {
     color: var(--n3);
     padding-bottom: 5px;
+    font-size: 1.2em;
 }
-.plan h5 {
+.plan h3 {
     font-weight: 500;
     color: var(--n2);
 }
